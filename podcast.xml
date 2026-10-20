@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The 3-Minute Market &amp; Crypto Snapshot</title>
+    <link>https://github.com/bunyaminoztoprak74-max/the-3-minute-market-snapshot</link>
+    <language>en-us</language>
+    <copyright>© 2026 Bünyamin Öztoprak</copyright>
+    <itunes:author>Bünyamin Öztoprak</itunes:author>
+    <description>The 3-Minute Market &amp; Crypto Snapshot is your essential daily morning digest covering Wall Street, Bitcoin, altcoins, commodities, and macroeconomic shifts. Fast, actionable, and straight to the point.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bünyamin Öztoprak</itunes:name>
+      <itunes:email>bunyamin.oztoprak74@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-market-snapshot/main/cover.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <title>Wall St Momentum, Bitcoin Liquidity & Macro Outlook - Oct 20</title>
+      <itunes:title>Wall St Momentum, Bitcoin Liquidity & Macro Outlook - Oct 20</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>Daily market pulse: Global indices consolidation, Bitcoin liquidity trends, and macroeconomic commodity signals.</description>
+      <itunes:summary>Daily market pulse: Global indices consolidation, Bitcoin liquidity trends, and macroeconomic commodity signals.</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 20:44:17 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-market-snapshot/main/episodes/Market_Snapshot_2026-10-20.mp3" 
+                 type="audio/mpeg" 
+                 length="1494188"/>
+      <guid isPermaLink="false">market-snapshot-ep-2026-10-20</guid>
+      <itunes:duration>01:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
